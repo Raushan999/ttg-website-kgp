@@ -1,0 +1,159 @@
+body{
+   margin:0;
+   background-color: rgb(199 195 195);/*light grey*/
+}
+
+.top{
+position : relative;
+background-color: #1ebea5;
+padding-top: 100px;
+padding-bottom: 100px;
+
+}
+.top-end{
+  background-color: #66BFBF;
+  padding:30px 0 30px;
+}
+.footer-link{
+  font-size: 1.5rem;
+  padding:30px ;
+  margin:60px;
+  text-decoration: none;
+  color:  #435973;
+}
+.footer-link:hover{
+  color: white;
+}
+.footer-link2{
+  font-size: 1.5rem;
+
+   text-decoration-color: red;
+
+  text-decoration: none;
+}
+.footer-link2:hover{
+  color : green;
+}
+li{
+  margin-top:40px;
+  margin-bottom: 40px;
+}
+.about{
+  background-color:#d1ece5;
+  margin: 0 auto 100px;
+  text-align: center;
+  padding-bottom: 200px;
+}
+.know-us-image{
+  margin:50px auto 100px;
+}
+.know-para{
+  margin-left: 100px;
+  margin-right: 100px;
+  font-family: "Source Sans Pro", "Arial", sans-serif;
+}
+.know-h2{
+  margin-left: 200px;
+  margin-right: 100px;
+  font-family: cursive;
+}
+.middle{
+  text-align: center;
+  position: relative;
+  margin:50px 20px 50px;
+}
+.logo-image1{
+  float: left;
+  margin : 10px 20px 40px;
+}
+.logo-image2{
+  float: right;
+  margin:10px 10px 40px;
+}
+
+.header-class
+{
+  font-size: 2.85rem;
+  font-family: 'Sacramento', cursive;
+}
+.events{
+  margin: 50px auto 60px;
+   background-color:  rgb(199 195 195);
+}
+
+.events-img{
+   margin-left: 450px;
+    height: 300px;
+    width: 400px;
+    border-radius: 50%;
+}
+.gallary{
+  text-align: center;
+  font-size: 1.3em;
+  color: rgb(103 66 32);
+  padding : 30px 0 0;
+  font-family: 'Sacramento', cursive;
+   margin : 100px 10px 0;
+}
+
+
+.img1{
+  margin-left: 0;
+  height: 300px;
+  width: 410px;
+}
+.img2{
+  height: 300px;
+  width: 410px;
+}
+.img3{
+  height: 300px;
+  width: 410px;
+}
+.img4{
+  height: 400px;
+  width: 410px;
+}
+.tedx{
+  height: 400px;
+  width: 410px
+
+   }
+.ipr{
+  height: 400px;
+  width: 410px;
+}
+.Contact-Us{
+   background-color:#66BFBF;
+   margin: 0;
+   text-align: center;
+   padding-bottom: 140px;
+   padding-top: 80px;
+}
+.contact{
+  font-size: 3rem;
+  margin-top: 0;
+  margin-bottom: 80px;
+
+
+}
+.footer-link3{
+  font-size: 2rem;
+  font-family: 'Sacramento', cursive;
+  color: #692412;
+  margin : 250px 60px 10px;
+  padding-bottom: 40px;
+  text-decoration: none;
+}
+.footer-link3:hover{
+   color: grey;
+}
+h3{
+  color: white;
+}
+/*.gallary{
+  height : 500px;
+  width: 1000px;
+  margin: 30px 0 0 40px;
+}
+*/
